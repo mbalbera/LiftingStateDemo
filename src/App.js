@@ -6,7 +6,7 @@ import CSwitch from './components/ConnectedSwitch';
 class App extends React.Component{
   state = {
     switches: [
-      true, false, false, false, false
+      false, false, false, false, false
     ],
     hover:false
   }
