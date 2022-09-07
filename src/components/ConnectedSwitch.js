@@ -3,7 +3,7 @@ import React from 'react'
 export default class Switch extends React.Component {
 
     createDot = () => {
-        return <div style={{ height: 15, width: 15, borderRadius: '50%', backgroundColor: this.props.on ? '#FFFF00' : '#000080' }} />
+        return <div style={{ height: 15, width: 15, borderRadius: '50%', backgroundColor: !this.props.on ? '#FFFF00' : '#000080' }} />
     }
 
     render() {

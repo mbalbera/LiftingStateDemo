@@ -45,7 +45,7 @@ class App extends React.Component{
             onMouseEnter={()=>this.setState({hover:true})}
             onMouseLeave={()=>this.setState({hover:false})}
           >
-            Click me to switch all Dots off
+            Click me to switch all switches on
           </div>
         </div>
       </div>
