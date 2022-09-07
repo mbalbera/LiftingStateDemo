@@ -20,8 +20,8 @@ or
 ```
 
                    App
-                 /     \
-           /                   \
+                    |
+         __________________________
        /                           \
    unique switches         connected switches
            |                         |
