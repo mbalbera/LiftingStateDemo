@@ -17,10 +17,13 @@ or
 
 # Project Structure
 
-                 App
-                  |
-       -------------------------------
-       |                             |
+                    App
+                    |
+                 /     \
+           /                   \
+       /                           \
    unique switches         connected switches
+           |                         |
+    /   /  |  \   \           /   /  |  \   \
    |   |   |   |   |         |   |   |   |   | 
   sw1 sw2 sw3 sw4 sw5       sw1 sw2 sw3 sw4 sw5
