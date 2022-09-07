@@ -12,4 +12,4 @@ In the second we added a feature where there is a button to set all switches to 
 # running this project
 ### `npm start`
 or
-### `npm start`
+### `yarn start`
