@@ -13,3 +13,14 @@ In the second we added a feature where there is a button to set all switches to 
 ### `npm start`
 or
 ### `yarn start`
+
+
+# Project Structure
+
+                 App
+                  |
+       -------------------------------
+       |                             |
+   unique switches         connected switches
+   |   |   |   |   |         |   |   |   |   | 
+  sw1 sw2 sw3 sw4 sw5       sw1 sw2 sw3 sw4 sw5
