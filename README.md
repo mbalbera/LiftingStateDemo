@@ -17,8 +17,9 @@ or
 
 # Project Structure
 
-                    App
-                    |
+```
+
+                   App
                  /     \
            /                   \
        /                           \
@@ -27,3 +28,5 @@ or
     /   /  |  \   \           /   /  |  \   \
    |   |   |   |   |         |   |   |   |   | 
   sw1 sw2 sw3 sw4 sw5       sw1 sw2 sw3 sw4 sw5
+  
+  ```
